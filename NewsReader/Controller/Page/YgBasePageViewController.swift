@@ -1,5 +1,5 @@
 //
-//  HomePageViewController.swift
+//  YgBasePageViewController.swift
 //  NewsReader
 //
 //  Created by 随随意 on 17/2/5.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class HomePageViewController: UIViewController {
+class YgBasePageViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
